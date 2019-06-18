@@ -1,1 +1,2 @@
 ﻿create table ssm_admin;
+two
